@@ -113,7 +113,7 @@
                   <div
                     v-if="!addressNumber.length > 0"
                     class="w-full h-0.5 bg-gray-100"
-                  ></ChevronDownIcon>
+                  ></div>
                   <div v-if="addressNumber.length > 0" class="w-full">
                     <div class="flex items-center justify-between">
                       <div class="w-1/3 h-0.5 bg-gray-100"></div>
